@@ -5,7 +5,7 @@ FPS="24"
 QUAL="superfast"
 
 YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"
-KEY="YOUR API KEY HERE"
+KEY="68pg-phuu-b57r-xa31-aja0"
 
 VIDEO_SOURCE="/home/ubuntu/pixel-jeff-mario.gif"
 AUDIO_SOURCE="/home/ubuntu/input.txt"
